@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>Dakar_flooding</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-17.2697216845721,14.7749106827868 -17.2731250782486,14.7562061120552 -17.3068395303532,14.7572845335438 -17.3057492665333,14.7676134385554 -17.2903431096147,14.7731100947835 -17.2872189705921,14.7761505305978 -17.2740338927778,14.7768336044052 -17.2705581233781,14.7764379059915 -17.2697216845721,14.7749106827868</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
